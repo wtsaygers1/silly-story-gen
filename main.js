@@ -66,7 +66,7 @@ from the different arrays -- something to note is the x/x/y/z are case sensitive
   }
 
   /* the .textContent concatenates the story and the story.style.visibility seems
-  like it may be related to CSS??? */
+  like it may be related to CSS??? - ask during demo day */
 
   story.textContent = newStory;
   story.style.visibility = 'visible';
